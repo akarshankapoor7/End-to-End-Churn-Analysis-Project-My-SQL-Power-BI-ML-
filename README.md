@@ -3,7 +3,6 @@ Churn analysis is a key technique used to understand and reduce this customer at
 Project Target
 
 Create an entire ETL process in a database & a Power BI dashboard to utilize the Customer Data and achieve below goals:
-
 Visualize & Analyse Customer Data at below levels
 Demographic
 Geographic
