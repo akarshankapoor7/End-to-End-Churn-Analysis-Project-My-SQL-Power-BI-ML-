@@ -2,18 +2,6 @@ Churn analysis is a key technique used to understand and reduce this customer at
 
 Project Target
 
-Create an entire ETL process in a database & a Power BI dashboard to utilize the Customer Data and achieve below goals:
-Visualize & Analyse Customer Data at below levels
-Demographic
-Geographic
-Payment & Account Info
-Services
-Study Churner Profile & Identify Areas for Implementing Marketing Campaigns
-Identify a Method to Predict Future Churners
- 
+This project focuses on customer churn analysis for a telecom firm, showcasing end-to-end implementation from data extraction to actionable insights. It involves creating an ETL process in SQL Server, building interactive Power BI dashboards for demographic, geographic, and service usage analysis, and developing a machine learning model using Random Forest in Python to predict churn. The project equips businesses with tools to identify at-risk customers, understand churn drivers, and implement data-driven strategies to improve customer retention.
 
-Metrics Required
 
-Total Customers
-Total Churn & Churn Rate
-New Joiners
